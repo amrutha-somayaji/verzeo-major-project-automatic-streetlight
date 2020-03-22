@@ -15,8 +15,11 @@ Heroku is a cloud platform as a service (PaaS) supporting several programming la
 
 Maintains a PostgreSQL database of all the streetlights
 in the network
-
 Hosts the web application so its online 24/7
-
 Collects and analyzes data from all the nodes to get
 insights
+
+A user-friendly and attractive Web-application is developed for the user. It allows real time control of streetlights
+
+Link to the web-application: https://pesce-streetlamp-demo.herokuapp.com/auth
+
